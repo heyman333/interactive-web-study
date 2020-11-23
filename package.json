@@ -1,0 +1,9 @@
+{
+  "name": "interactive-web-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/heyman333/interactive-web-study.git",
+  "author": "yeongsuhan <amazingmobdev@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
